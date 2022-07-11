@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sokoo78
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning Computer Science
+- 🌱 I was learning Computer Science
 - 📫 You can reach me on LinkedIn ...
